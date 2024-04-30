@@ -13,4 +13,4 @@ $ g++ -o spelling_bee spelling_bee.cpp
 $ ./spelling_bee
 ```
 
-<img src="logo.png" width="25">
+<img src="logo.png" width="100">
