@@ -37,7 +37,7 @@ int main()
     cout << "Enter the middle letter: ";
     cin >> middleLetter;
 
-    ifstream inputFile("words_alpha.txt");
+    ifstream inputFile("twl06.txt");
 
     if (!inputFile.is_open())
     {
