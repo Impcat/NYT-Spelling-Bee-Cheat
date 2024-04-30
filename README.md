@@ -11,3 +11,6 @@ Clone this repository to your local machine using Git:
 $ git clone https://github.com/MicrowaveF/NYT-Spelling-Bee-Cheat
 $ g++ -o spelling_bee spelling_bee.cpp
 $ ./spelling_bee
+```
+
+![Logo](logo.png)
