@@ -2,7 +2,7 @@
 Use this to cheat in [New York Times spelling bee!](https://www.nytimes.com/puzzles/spelling-bee)
 
 Note - certain words that are generated are not accept by the game
-
+. The word list they use is not public
 
 # Installation Instructions:
 
