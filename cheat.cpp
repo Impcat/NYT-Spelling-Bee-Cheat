@@ -1,4 +1,4 @@
-#include <iostream>
+`#include <iostream>
 #include <fstream>
 #include <iomanip>
 
@@ -31,10 +31,10 @@ int main()
     char middleLetter;
     string word;
 
-    cout << "Enter letters: ";
+    cout << "Enter all 7 letters: ";
     cin >> letters;
 
-    cout << "Which is the middle letter: ";
+    cout << "Enter the middle letter: ";
     cin >> middleLetter;
 
     ifstream inputFile("words_alpha.txt");
