@@ -37,7 +37,7 @@ int main()
     cout << "Which is the middle letter: ";
     cin >> middleLetter;
 
-    ifstream inputFile("engmix.txt");
+    ifstream inputFile("words_alpha.txt");
 
     if (!inputFile.is_open())
     {
