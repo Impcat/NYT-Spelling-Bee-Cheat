@@ -5,11 +5,15 @@ Note - certain words that are generated are not accept by the game. The word lis
 
 # Installation Instructions:
 
+## Linux
 Clone this repository to your local machine using Git:
 ```shell
 $ git clone https://github.com/MicrowaveF/NYT-Spelling-Bee-Cheat
 $ g++ -o cheat cheat.cpp
 $ ./cheat
 ```
+## Windows
+[Download](https://github.com/MicrowaveF/NYT-Spelling-Bee-Cheat/releases/tag/v1.0.0)
+
 
 <img src="logo.png" width="100">
