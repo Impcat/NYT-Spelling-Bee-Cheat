@@ -9,6 +9,7 @@ Note - certain words that are generated are not accept by the game. The word lis
 Clone this repository to your local machine using Git:
 ```shell
 $ git clone https://github.com/MicrowaveF/NYT-Spelling-Bee-Cheat
+$ cd NYT-Spelling-Bee-Cheat/
 $ g++ -o cheat cheat.cpp
 $ ./cheat
 ```
