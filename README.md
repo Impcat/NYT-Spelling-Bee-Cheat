@@ -14,7 +14,7 @@ A simple command-line tool to help find words in the [New York Times Spelling Be
 ### Install Steps
 
 ```shell
-$ git clone https://github.com/MicrowaveF/NYT-Spelling-Bee-Cheat
+$ git clone https://github.com/Impcat/NYT-Spelling-Bee-Cheat
 $ cd NYT-Spelling-Bee-Cheat/
 $ g++ -o cheat cheat.cpp
 $ ./cheat
