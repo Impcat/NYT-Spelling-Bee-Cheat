@@ -1,12 +1,18 @@
 # NYT-Spelling-Bee-Cheat
-Use this to cheat in [New York Times spelling bee!](https://www.nytimes.com/puzzles/spelling-bee)
+A simple command-line tool to help find words in the [New York Times spelling bee](https://www.nytimes.com/puzzles/spelling-bee)
 
-Note - certain words that are generated are not accept by the game. The word list they use is not public.
+⚠️**Note** - certain words that are generated are not accept by the game, as the official word list is not public.
 
-# Installation Instructions:
+# Installation
 
-## Linux
-Clone this repository to your local machine using Git:
+### Requirements
+
+- Linux
+- `g++`
+- `git`
+
+### Install Steps
+
 ```shell
 $ git clone https://github.com/MicrowaveF/NYT-Spelling-Bee-Cheat
 $ cd NYT-Spelling-Bee-Cheat/
