@@ -1,8 +1,8 @@
 # NYT-Spelling-Bee-Cheat
-A simple command-line tool to help find words in the [New York Times spelling bee](https://www.nytimes.com/puzzles/spelling-bee)
+A simple command-line tool to help find words in the [New York Times Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 
 ⚠️**Note** - certain words that are generated are not accept by the game, as the official word list is not public.
-
+---
 # Installation
 
 ### Requirements
